@@ -1,0 +1,17 @@
+[
+    { "codi": "M06-DAW", "nom": "Programació Web", "color": "#3B82F6", "professor": "Marta Vila" },
+    { "codi": "M07-DAW", "nom": "PHP / Backend", "color": "#8B5CF6", "professor": "Marta Vila" },
+    { "codi": "M08-DAW", "nom": "Desplegament Web", "color": "#10B981", "professor": "Marta Vila" },
+    { "codi": "M06-DAM", "nom": "Java Mobile", "color": "#EF4444", "professor": "Marta Vila" },
+    { "codi": "M08-DAM", "nom": "Kotlin", "color": "#F59E0B", "professor": "Marta Vila" },
+    { "codi": "M02-DAW", "nom": "Bases de Dades (DAW)", "color": "#6366F1", "professor": "Joan Font" },
+    { "codi": "M07-SER", "nom": "Servidors i Seguretat", "color": "#64748B", "professor": "Joan Font" },
+    { "codi": "M01-DAM", "nom": "Sistemes Operatius", "color": "#475569", "professor": "Joan Font" },
+    { "codi": "M06-ACC", "nom": "Accés a Dades", "color": "#BE123C", "professor": "Joan Font" },
+    { "codi": "M09-DAW", "nom": "Disseny Web UX/UI", "color": "#EC4899", "professor": "Toni Sants" },
+    { "codi": "M07-DAM", "nom": "Interfícies Mòbils", "color": "#1D4ED8", "professor": "Toni Sants" },
+    { "codi": "M07-FLU", "nom": "Flutter / Dart", "color": "#06B6D4", "professor": "Toni Sants" },
+    { "codi": "FOL", "nom": "FOL i Sostenibilitat", "color": "#94A3B8", "professor": "Anna Gual" },
+    { "codi": "EIE", "nom": "Empresa i Iniciativa", "color": "#475569", "professor": "Anna Gual" },
+    { "codi": "ENG", "nom": "Anglès Tècnic", "color": "#14B8A6", "professor": "Anna Gual" }
+]
