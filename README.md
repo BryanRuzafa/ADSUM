@@ -15,8 +15,22 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://adsum.cat">adsum.cat</a> · Projecte Final CFGS DAW · Grup 5 · Curs 2025-2026
+  Projecte Final CFGS DAW · Grup 4 · Curs 2025-2026<br/>
+  <sub>Desplegat a adsum.cat per a la presentació final (actualment fora de línia)</sub>
 </p>
+
+---
+
+> ### 📌 En resumen (ES)
+> **ADSUM** es una PWA que sustituye el pase de lista en papel por **códigos QR dinámicos que caducan en segundos** (no se pueden compartir), con actualización en **tiempo real** y paneles para administración, profesorado, alumnado y familias.
+>
+> **Mi parte — [Bryan Ruzafa](https://bryanrg.dev) (backend y despliegue):**
+> - Arquitectura de la API REST con **NestJS + TypeScript**, TypeORM y MySQL, documentada con Swagger.
+> - Autenticación con **JWT**, control de acceso por roles (**RBAC**), contraseñas con **bcrypt** y endpoints de generación y validación del QR.
+> - Eventos en tiempo real con **Socket.IO** (listas de asistencia y rotación del QR).
+> - Orquestación con **Docker Compose** para desarrollo y producción.
+>
+> **Equipo:** Aarón Soriano · Marcos Suarez · Adrian Maciel · Bryan Ruzafa — proyecto final del CFGS DAW (Institut Pedralbes, 2026).
 
 ---
 
@@ -319,7 +333,7 @@ Guia perquè qualsevol usuari pugui entendre i utilitzar l'aplicació. **Versió
 
 ### Accés ràpid
 
-1. Obre https://adsum.cat (o `http://localhost:5173` en local).
+1. Obre `http://localhost:5173` en local (o el domini on l'hagis desplegat).
 2. Clica **Accedir** i introdueix correu i contrasenya del centre.
 3. El sistema et mostra el panell segons el teu rol.
 
