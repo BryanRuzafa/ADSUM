@@ -32,7 +32,7 @@
 >
 > **Equipo:** Aarón Soriano · Marcos Suarez · Adrian Maciel · Bryan Ruzafa — proyecto final del CFGS DAW (Institut Pedralbes, 2026).
 >
-> 🔗 **Repositorio original del equipo, con el historial completo de commits:** [inspedralbes/projecte-final-2025-26-daw-adsum_grup4](https://github.com/inspedralbes/projecte-final-2025-26-daw-adsum_grup4) · [mis commits](https://github.com/inspedralbes/projecte-final-2025-26-daw-adsum_grup4/commits?author=BryanRuzafaGon) (cuenta del instituto `BryanRuzafaGon`).
+> 🔗 **Repositorio original del equipo, con el historial completo de commits:** [inspedralbes/projecte-final-2025-26-daw-adsum_grup4](https://github.com/inspedralbes/projecte-final-2025-26-daw-adsum_grup4).
 > Este repositorio es una copia para mi portfolio.
 
 ---
